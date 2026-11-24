@@ -1,0 +1,325 @@
+sample,data_type,source_col
+Female,categorical,Gender
+Not Active,categorical,Status
+Male,categorical,Gender
+Active,categorical,Status
+2/12/2002,date,Birthday
+9/11/2003,date,Birthday
+1/16/2002,date,Birthday
+1/3/2001,date,Birthday
+1/1/1999,date,Birthday
+8/10/2002,date,Birthday
+6/20/2000,date,Birthday
+3/21/2022,date,Birthday
+9/13/2003,date,Birthday
+12/17/2000,date,Birthday
+12/5/1999,date,Birthday
+11/1/2000,date,Birthday
+2/28/2000,date,Birthday
+4/10/2002,date,Birthday
+3/6/2000,date,Birthday
+11/11/2000,date,Birthday
+4/3/2000,date,Birthday
+1/2/2001,date,Birthday
+4/4/2003,date,Birthday
+9/15/2003,date,Birthday
+10/1/1998,date,Birthday
+1/14/2002,date,Birthday
+12/1/2000,date,Birthday
+1/1/2002,date,Birthday
+10/6/2001,date,Birthday
+10/1/2000,date,Birthday
+11/29/2000,date,Birthday
+9/12/2003,date,Birthday
+9/14/2003,date,Birthday
+7/24/2000,date,Birthday
+5/2/2001,date,Birthday
+9/25/2002,date,Birthday
+2/24/2001,date,Birthday
+11/16/2000,date,Birthday
+2/26/2002,date,Birthday
+11/2/1999,date,Birthday
+9/30/2000,date,Birthday
+7/11/2001,date,Birthday
+9/15/2001,date,Birthday
+10/22/1998,date,Birthday
+11/6/2001,date,Birthday
+2/22/2000,date,Birthday
+7/18/2022,date,Birthday
+10/5/1999,date,Birthday
+9/9/2002,date,Birthday
+2/3/2001,date,Birthday
+8/1/2002,date,Birthday
+11/30/2000,date,Birthday
+8/11/2002,date,Birthday
+1/15/2002,date,Birthday
+11/1/1999,date,Birthday
+1/29/2002,date,Birthday
+1/4/2001,date,Birthday
+9/8/2001,date,Birthday
+8/21/1999,date,Birthday
+2/23/2002,date,Birthday
+3/21/2001,date,Birthday
+5/10/1998,date,Birthday
+10/1/2002,date,Birthday
+12/2/2000,date,Birthday
+2/1/2001,date,Birthday
+1/1/2001,date,Birthday
+7/3/2001,date,Birthday
+2/16/2000,date,Birthday
+9/2/2000,date,Birthday
+7/3/1998,date,Birthday
+5/16/2001,date,Birthday
+9/13/2022,date,Birthday
+1/16/2003,date,Birthday
+5/20/2000,date,Birthday
+ahmed001@gmail.com,email,Email
+30107111301656,numeric_id,ID Number
+30107111300402,numeric_id,ID Number
+30107111301572,numeric_id,ID Number
+30107111301131,numeric_id,ID Number
+30107111302193,numeric_id,ID Number
+30107111302436,numeric_id,ID Number
+30107111300492,numeric_id,ID Number
+30107111302744,numeric_id,ID Number
+30107111300820,numeric_id,ID Number
+30107111300274,numeric_id,ID Number
+30107111300676,numeric_id,ID Number
+30107111301079,numeric_id,ID Number
+30107111301119,numeric_id,ID Number
+30107111301167,numeric_id,ID Number
+30107111302609,numeric_id,ID Number
+30107111302648,numeric_id,ID Number
+30107111301491,numeric_id,ID Number
+30107111302351,numeric_id,ID Number
+30107111301848,numeric_id,ID Number
+30107111302327,numeric_id,ID Number
+30107111302000,numeric_id,ID Number
+30107111301529,numeric_id,ID Number
+30107111301896,numeric_id,ID Number
+30107111302135,numeric_id,ID Number
+30107111300756,numeric_id,ID Number
+30107111301963,numeric_id,ID Number
+30107111300755,numeric_id,ID Number
+30107111301628,numeric_id,ID Number
+30107111301840,numeric_id,ID Number
+30107111301527,numeric_id,ID Number
+30107111302413,numeric_id,ID Number
+30107111301125,numeric_id,ID Number
+30107111301019,numeric_id,ID Number
+30107111301385,numeric_id,ID Number
+30107111301077,numeric_id,ID Number
+30107111300859,numeric_id,ID Number
+30107111301799,numeric_id,ID Number
+30107111301054,numeric_id,ID Number
+30107111300621,numeric_id,ID Number
+30107111301171,numeric_id,ID Number
+30107111301040,numeric_id,ID Number
+30107111301928,numeric_id,ID Number
+30107111300867,numeric_id,ID Number
+30107111302194,numeric_id,ID Number
+30107111301974,numeric_id,ID Number
+30107111301347,numeric_id,ID Number
+30107111301473,numeric_id,ID Number
+30107111301133,numeric_id,ID Number
+30107111300557,numeric_id,ID Number
+30107111302697,numeric_id,ID Number
+30107111301886,numeric_id,ID Number
+30107111300535,numeric_id,ID Number
+30107111302192,numeric_id,ID Number
+30107111300471,numeric_id,ID Number
+30107111301195,numeric_id,ID Number
+30107111302375,numeric_id,ID Number
+30107111300387,numeric_id,ID Number
+30107111300819,numeric_id,ID Number
+30107111301191,numeric_id,ID Number
+30107111300907,numeric_id,ID Number
+30107111301647,numeric_id,ID Number
+30107111302654,numeric_id,ID Number
+30107111302335,numeric_id,ID Number
+30107111301925,numeric_id,ID Number
+30107111300923,numeric_id,ID Number
+30107111301095,numeric_id,ID Number
+30107111302426,numeric_id,ID Number
+30107111301180,numeric_id,ID Number
+30107111300632,numeric_id,ID Number
+30107111302721,numeric_id,ID Number
+30107111302878,numeric_id,ID Number
+30107111302017,numeric_id,ID Number
+30107111301535,numeric_id,ID Number
+30107111301089,numeric_id,ID Number
+30107111300729,numeric_id,ID Number
+30107111301752,numeric_id,ID Number
+30107111301015,numeric_id,ID Number
+30107111300814,numeric_id,ID Number
+30107111300521,numeric_id,ID Number
+30107111302400,numeric_id,ID Number
+30107111301256,numeric_id,ID Number
+30107111301642,numeric_id,ID Number
+30107111301795,numeric_id,ID Number
+Esraa mohammed Attia,person_name,Full Name
+salma  samir  ahmed,person_name,Full Name
+Mahmoud  Altaher  Abdelfattah,person_name,Full Name
+Kholoud Khalid Mohamed hassan,person_name,Full Name
+esraa sayed mousa,person_name,Full Name
+Ahmed  Saied Ramadan,person_name,Full Name
+Iman  Abdelghafar Ebrahim,person_name,Full Name
+Khaled  Fathy Ahmed,person_name,Full Name
+Mohamed Elsayed Elsayed,person_name,Full Name
+Esraa Awwad Elsayed,person_name,Full Name
+karim Emad Mohamed,person_name,Full Name
+esraa ezat abdelaziz,person_name,Full Name
+Mai Gamal Mikawy,person_name,Full Name
+Ahmed Mohamed Ahmed mohamed esmail,person_name,Full Name
+Mohamed Mahmoud Ramadan,person_name,Full Name
+Adham Mohamed Atiaa,person_name,Full Name
+Mohamed  Moustafa  Maamoun,person_name,Full Name
+Mena Reda Waheeb,person_name,Full Name
+Zaynab Khaled Abdul Baset,person_name,Full Name
+om hashem  Adel  Elsayed,person_name,Full Name
+Haidy  Mohamed  Hafni Yousef,person_name,Full Name
+Amira Ibrahim Albaskary,person_name,Full Name
+ahmed  abden  mohamed,person_name,Full Name
+Nesreen Mohamed Hassan,person_name,Full Name
+mohamed aboeldahab abdelaziz,person_name,Full Name
+ahmed  adham  ezzat mohammed,person_name,Full Name
+Mohamed  Ahmed  Hamed,person_name,Full Name
+Hager Gamal Fahmey,person_name,Full Name
+Ibrahim Tharwat Osman,person_name,Full Name
+Hassan Mahmoud Hassan,person_name,Full Name
+yahia Samer mohamed,person_name,Full Name
+Farhat Gouda Ibrahim Eldaly,person_name,Full Name
+Nora Mohamed Mahmoud Ibrahim,person_name,Full Name
+Rwan Mohamed Hussien,person_name,Full Name
+mohamed atef abdelsalam,person_name,Full Name
+Mohamed  Ali Mohamed,person_name,Full Name
+Moheb  Sobhy  Mekhaeel,person_name,Full Name
+karim hassan mohammed,person_name,Full Name
+Mohammed Abdelrady  Mohamed,person_name,Full Name
+amira  alaa  abdallah,person_name,Full Name
+Gehad gogo Nabil,person_name,Full Name
+Nourhan Mansour mohammed,person_name,Full Name
+Sara  Mohammed  Gomaa Mohammed,person_name,Full Name
+Donia Abd elAzez,person_name,Full Name
+ahmed osama  ahmed,person_name,Full Name
+Abdullah  Abdel-sattar  Abdullah,person_name,Full Name
+Ahmed El-shafei Mansour,person_name,Full Name
+Mohamed kamal Mohamed,person_name,Full Name
+Mahmoud Morse Hosney,person_name,Full Name
+hager Thabet Khalil,person_name,Full Name
+Mai Abd el-shakour Abd allah,person_name,Full Name
+Ahmed Salah Moustafa,person_name,Full Name
+Youssif Basem Gassar,person_name,Full Name
+heba abdelfattah abdelaziz,person_name,Full Name
+saied fekry deabis,person_name,Full Name
+mohamed abobakr  AbdSalam,person_name,Full Name
+Mai  Ahmed  Esaa,person_name,Full Name
+Marwa  Ragab Farag,person_name,Full Name
+hala fouad mahmoud,person_name,Full Name
+rania  elsaed  abdelghani,person_name,Full Name
+Mohamed Kadry Abd Elfattah,person_name,Full Name
+Islam Mohamed  Selem,person_name,Full Name
+Mohamed  Shabaan  Mousa,person_name,Full Name
+Ahmed Saeed Youssef,person_name,Full Name
+Rania  Mohamed  Ali,person_name,Full Name
+Senior Saleh Mohammed,person_name,Full Name
+waleed abdallah fawzy,person_name,Full Name
+reda elsayed fathy,person_name,Full Name
+Mohamed Ahmed Mohamed,person_name,Full Name
+mahmoud atef ahmed,person_name,Full Name
+Mohamed  Gad Abdelwahab,person_name,Full Name
+Sallam Ahmed Sallam,person_name,Full Name
+Ahmed Mohsen Mohamed,person_name,Full Name
+Amal Hassan Mohamed,person_name,Full Name
+alaa ahmed mahmoud,person_name,Full Name
+mahmoud moustafa khattab,person_name,Full Name
+Reem Hamza Kamel,person_name,Full Name
+omar adel fathy,person_name,Full Name
+shahenda  salah mohammod,person_name,Full Name
+gehad moustaf atia,person_name,Full Name
+Mohamed Belasy Osman,person_name,Full Name
+Wesam  Ali  ELsayed,person_name,Full Name
+takwa  abdelfattah ali,person_name,Full Name
+01127007455,phone_number,Mobile
+01127007328,phone_number,Mobile
+01127007387,phone_number,Mobile
+01127006361,phone_number,Mobile
+01127008420,phone_number,Mobile
+01127006281,phone_number,Mobile
+01127008765,phone_number,Mobile
+01127006271,phone_number,Mobile
+01127006493,phone_number,Mobile
+01127007606,phone_number,Mobile
+01127008097,phone_number,Mobile
+01127007515,phone_number,Mobile
+01127006853,phone_number,Mobile
+01127007342,phone_number,Mobile
+01127008533,phone_number,Mobile
+01127006812,phone_number,Mobile
+01127007511,phone_number,Mobile
+01127008497,phone_number,Mobile
+01127007426,phone_number,Mobile
+01127007507,phone_number,Mobile
+01127008618,phone_number,Mobile
+01127006829,phone_number,Mobile
+01127007537,phone_number,Mobile
+01127006912,phone_number,Mobile
+01127006961,phone_number,Mobile
+01127008744,phone_number,Mobile
+01127007700,phone_number,Mobile
+01127006891,phone_number,Mobile
+01127006435,phone_number,Mobile
+01127006620,phone_number,Mobile
+01127006471,phone_number,Mobile
+01127008104,phone_number,Mobile
+01127006686,phone_number,Mobile
+01127008123,phone_number,Mobile
+01127007096,phone_number,Mobile
+01127007039,phone_number,Mobile
+01127007243,phone_number,Mobile
+01127006722,phone_number,Mobile
+01127007985,phone_number,Mobile
+01127008254,phone_number,Mobile
+01127008659,phone_number,Mobile
+01127007767,phone_number,Mobile
+01127007160,phone_number,Mobile
+01127008045,phone_number,Mobile
+01127006483,phone_number,Mobile
+01127006436,phone_number,Mobile
+01127007740,phone_number,Mobile
+01127007394,phone_number,Mobile
+01127006645,phone_number,Mobile
+01127007377,phone_number,Mobile
+01127007025,phone_number,Mobile
+01127008677,phone_number,Mobile
+01127006091,phone_number,Mobile
+01127006304,phone_number,Mobile
+01127006819,phone_number,Mobile
+01127006360,phone_number,Mobile
+01127006761,phone_number,Mobile
+01127007385,phone_number,Mobile
+01127007040,phone_number,Mobile
+01127007252,phone_number,Mobile
+01127006696,phone_number,Mobile
+01127006715,phone_number,Mobile
+01127008310,phone_number,Mobile
+01127007578,phone_number,Mobile
+01127007271,phone_number,Mobile
+01127006445,phone_number,Mobile
+01127008201,phone_number,Mobile
+01127006915,phone_number,Mobile
+01127007913,phone_number,Mobile
+01127007306,phone_number,Mobile
+01127007667,phone_number,Mobile
+01127008543,phone_number,Mobile
+01127007005,phone_number,Mobile
+01127007576,phone_number,Mobile
+01127008431,phone_number,Mobile
+01127007140,phone_number,Mobile
+01127008207,phone_number,Mobile
+01127006522,phone_number,Mobile
+01127008241,phone_number,Mobile
+01127007175,phone_number,Mobile
+01127006876,phone_number,Mobile
+01127008235,phone_number,Mobile
+01127008247,phone_number,Mobile

@@ -1,0 +1,15 @@
+data_type,unique_templates,unique_samples
+address,96,100
+binary,11,14
+categorical,5,11
+currency,3,100
+date,14,100
+email,58,100
+geographic_coordinates,26,100
+numeric_id,3,100
+percentage,7,9
+person_name,75,100
+phone_number,8,100
+ssn,1,100
+text_description,100,100
+url,64,97

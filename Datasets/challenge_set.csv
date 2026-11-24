@@ -1,0 +1,197 @@
+sample,data_type
+1234567890,phone_number
+03001234567,phone_number
++92 300 1234567,phone_number
+(212) 555-0147,phone_number
++44 20 7946 0958,phone_number
+0092-51-2345678,phone_number
+555.867.5309,phone_number
++1-800-555-0199,phone_number
+051 9261234,phone_number
++91 98765 43210,phone_number
+300-1234567,phone_number
+0300 1234567,phone_number
++49 30 901820,phone_number
+(021) 3456789,phone_number
+ID-123-456,numeric_id
+student_12345,numeric_id
+123456789,numeric_id
+STU2023001,numeric_id
+A-998877,numeric_id
+20231045,numeric_id
+0012345,numeric_id
+EMP-4455,numeric_id
+990011223344,numeric_id
+REG#7788,numeric_id
+ID 556677,numeric_id
+2023-CS-114,numeric_id
+624353,numeric_id
+10293847,numeric_id
+123-45-6789,ssn
+987-65-4321,ssn
+078-05-1120,ssn
+219 09 9999,ssn
+001-01-0001,ssn
+666-12-3456,ssn
+123 45 6789,ssn
+555-44-3333,ssn
+XXX-XX-6789,ssn
+***-**-4321,ssn
+111-22-3333,ssn
+900-70-0000,ssn
+321-54-9876,ssn
+123456789,ssn
+2023/12/25,date
+12/25/2023,date
+25-12-2023,date
+2023-12-25,date
+25 Dec 2023,date
+"Dec 25, 2023",date
+25-Dec-23,date
+2023年12月25日,date
+1/2/99,date
+31.01.2024,date
+2024.03.15,date
+15-Mar-2024,date
+03-15-2024,date
+Jan 5 2022,date
+john.doe@mail.com,email
+user+tag@gmail.co.uk,email
+a_b-c@sub.domain.org,email
+student12@uni.edu.pk,email
+USER@EXAMPLE.COM,email
+x@y.io,email
+first.last@company-name.com,email
+info@my.site.net,email
+name123@hotmail.com,email
+test_user@yahoo.in,email
+ali.khan@nust.edu.pk,email
+mail@domain.travel,email
+u.s.e.r@e.co,email
+support@shop.example.com,email
+https://example.com,url
+www.example.org,url
+http://sub.domain.com/path?q=1,url
+ftp://files.server.net/a.zip,url
+https://github.com/user/repo,url
+example.com/page,url
+www.nust.edu.pk,url
+https://a.b.c.d/e/f,url
+http://192.168.0.1:8080/login,url
+https://www.google.com/search?q=test,url
+www.site.io/x,url
+https://t.co/abc123,url
+http://localhost:3000,url
+https://en.wikipedia.org/wiki/Edge_computing,url
+"$1,234.56",currency
+€500,currency
+£99.99,currency
+¥10000,currency
+"₨ 25,000",currency
+Rs. 5000,currency
+USD 250,currency
+$ 12,currency
+"1,000 PKR",currency
+"€ 1.234,50",currency
+$0.99,currency
+"₨1,50,000",currency
+"£1,000,000",currency
+¥ 500,currency
+45%,percentage
+12.5 %,percentage
+100%,percentage
+0.5%,percentage
+fifty percent,percentage
+7 percent,percentage
+99.9%,percentage
+3.14%,percentage
+20 percent,percentage
+-5%,percentage
+15%,percentage
+8.25 %,percentage
+60%,percentage
+33.3%,percentage
+true,binary
+False,binary
+YES,binary
+no,binary
+Y,binary
+n,binary
+1,binary
+0,binary
+active,binary
+Inactive,binary
+ON,binary
+off,binary
+T,binary
+F,binary
+red,categorical
+Male,categorical
+Female,categorical
+Single,categorical
+Premium,categorical
+Level 3,categorical
+Category B,categorical
+Gold,categorical
+Pending,categorical
+Approved,categorical
+Medium,categorical
+Graduate,categorical
+Sedan,categorical
+Other,categorical
+"33.6844, 73.0479",geographic_coordinates
+"-33.8688, 151.2093",geographic_coordinates
+"40.7128,-74.0060",geographic_coordinates
+"51.5074, -0.1278",geographic_coordinates
+"35.6762, 139.6503",geographic_coordinates
+"-1.2921, 36.8219",geographic_coordinates
+"48.8566, 2.3522",geographic_coordinates
+"24.8607, 67.0011",geographic_coordinates
+"0.0, 0.0",geographic_coordinates
+"55.7558, 37.6173",geographic_coordinates
+"-22.9068, -43.1729",geographic_coordinates
+"31.5204, 74.3587",geographic_coordinates
+"19.4326, -99.1332",geographic_coordinates
+"1.3521, 103.8198",geographic_coordinates
+123 Main Street,address
+"45 Park Ave, Apt 4B",address
+"House 12, Street 5, F-8/3, Islamabad",address
+PO Box 1234,address
+"221B Baker Street, London",address
+"Flat 7, Block C, Gulberg III",address
+1600 Pennsylvania Avenue NW,address
+78 Elm Road,address
+"Unit 5, 99 King St",address
+"Plot 22, Sector G-10",address
+10 Downing Street,address
+"350 Fifth Avenue, New York",address
+"Street 9, Satellite Town, Rawalpindi",address
+"42 Wallaby Way, Sydney",address
+John Smith,person_name
+Muhammad Ali Khan,person_name
+Dr. Sara Ahmed,person_name
+Mary-Jane O'Neil,person_name
+Ayesha Siddiqui,person_name
+Prof. Haitham El-ghareeb,person_name
+Wei Zhang,person_name
+Jean-Luc Picard,person_name
+Fatima Bibi,person_name
+Robert James Smith Jr.,person_name
+Mr. Bilal Hussain,person_name
+Nagwa Elmobark,person_name
+Li Na,person_name
+Omar Farooq,person_name
+This product is great for daily use,text_description
+Meeting scheduled for next week to discuss the budget,text_description
+Customer reported a delay in shipment,text_description
+Lorem ipsum dolor sit amet,text_description
+The quick brown fox jumps over the lazy dog,text_description
+Please contact support if the issue persists,text_description
+Battery lasts about ten hours,text_description
+Not working after update,text_description
+Room 5 is on the second floor near the elevator,text_description
+"Great service, will come again",text_description
+Order #1234 was cancelled by the user,text_description
+Handle with care,text_description
+A short note,text_description
+"Delivered at 5 pm yesterday, signed by reception",text_description
